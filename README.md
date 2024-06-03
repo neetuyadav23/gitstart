@@ -1,4 +1,4 @@
 # gitstart
-I'm Neetu
+I'm (Neetu Yadav)
 <br/>
-starting with git
+starting with git & github
